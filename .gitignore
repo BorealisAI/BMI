@@ -1,0 +1,16 @@
+**/*.py[cod]
+**/*~
+**/*.swp
+**/*.pkl
+**/*.txt
+**/*.csv
+**/*.tsv
+**/log/
+**/*.bin
+**/*.pkl
+**/*.zip
+**/*.gz
+**/*.npy
+**/*.png
+data
+**/*.bk*
