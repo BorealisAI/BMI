@@ -73,7 +73,7 @@ A large portion of this repo is borrowed from https://github.com/zihangdai/mos
 If you found this codebase or our work useful, please cite:
 
 ```
-@InProceddings{cao2020better,
+@InProceedings{cao2020better,
     author = {Yanshuai, Cao and Xu, Peng},
     title = {Better Long-Range Dependency By Bootstrapping A Mutual Information Regularizer}
     booktitle = {The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)},
